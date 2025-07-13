@@ -15,7 +15,7 @@ function About(){
           reuniting lost items with their rightful owners.
         </p>
         <footer>
-            <p>Copyright &copy; 2023</p>
+            <p>Copyright &copy; 2025</p>
             <p>Designed and Built by <a href="https://Amirchoudhary.me">Amir choudhary</a></p>
         </footer>
       </section>
